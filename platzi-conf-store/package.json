@@ -1,0 +1,23 @@
+{
+  "name": "platzi-conf-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ernestozann/profesional-react-hooks.git"
+  },
+  "author": "Ernesto Martinez <ernestomm99@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestozann/profesional-react-hooks/issues"
+  },
+  "homepage": "https://github.com/ernestozann/profesional-react-hooks#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
