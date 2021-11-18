@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ernestozann/profesional-react-hooks#readme",
   "dependencies": {
+    "@react-google-maps/api": "^2.7.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-paypal-button-v2": "^2.6.3",
